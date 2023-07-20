@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mini-player/static/css/main.9e86ed57.css",
+    "main.js": "/mini-player/static/js/main.2d388c6a.js",
+    "index.html": "/mini-player/index.html",
+    "main.9e86ed57.css.map": "/mini-player/static/css/main.9e86ed57.css.map",
+    "main.2d388c6a.js.map": "/mini-player/static/js/main.2d388c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e86ed57.css",
+    "static/js/main.2d388c6a.js"
+  ]
+}
